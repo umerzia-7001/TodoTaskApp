@@ -2,15 +2,13 @@
 
 A sleek, responsive Todo application built with React, TypeScript, and Tailwind CSS.
 
-![Todo App Screenshot](path_to_screenshot.png)
 
-[View Live Demo](your_live_demo_url_here)
 
-## Video Demonstration
-
-[![Todo App Demo]([https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID](https://drive.google.com/file/d/11jsZvnqkpg6oTl6ZP0fVN68gLEZ-ZmUe/view?usp=sharing))
+[View Live Demo](https://drive.google.com/file/d/11jsZvnqkpg6oTl6ZP0fVN68gLEZ-ZmUe/view?usp=sharing)
 
 Click the video above to watch a demonstration of the Todo App.
+
+
 
 ## Features
 
@@ -21,24 +19,29 @@ Click the video above to watch a demonstration of the Todo App.
 
 ## Technologies Used
 
+React + TypeScript + Vite
+
 - React 18
 - TypeScript
 - Tailwind CSS
 - Redux Toolkit for state management
 - Vite for fast development and building
 
-## Project Structure
+## Scalability Considerations
 
+- **Component Structure**: The project uses a modular component structure, making it easy to add new features or modify existing ones.
+- **State Management**: Redux Toolkit is used for state management, allowing for easy scaling of application state as the app grows.
+- **Custom Hooks**: Reusable logic is extracted into custom hooks, promoting code reuse and maintainability.
+- **TypeScript**: Strong typing with TypeScript ensures code quality and makes refactoring easier as the project scales.
+- **Tailwind CSS**: Utility-first CSS approach allows for rapid UI development and easy customization.
 
+## Future Enhancements
 
-# React + TypeScript + Vite
+- Implement user authentication
+- Add data persistence with a backend API
+- Create categories or tags for todos
+- Implement drag-and-drop functionality for reordering todos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
 
