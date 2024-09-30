@@ -1,3 +1,36 @@
+# Modern Todo App
+
+A sleek, responsive Todo application built with React, TypeScript, and Tailwind CSS.
+
+![Todo App Screenshot](path_to_screenshot.png)
+
+[View Live Demo](your_live_demo_url_here)
+
+## Video Demonstration
+
+[![Todo App Demo]([https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID](https://drive.google.com/file/d/11jsZvnqkpg6oTl6ZP0fVN68gLEZ-ZmUe/view?usp=sharing))
+
+Click the video above to watch a demonstration of the Todo App.
+
+## Features
+
+- Add, toggle, and remove todos
+- Set priority levels for todos
+- Responsive design for mobile and desktop
+- Clean and intuitive user interface
+
+## Technologies Used
+
+- React 18
+- TypeScript
+- Tailwind CSS
+- Redux Toolkit for state management
+- Vite for fast development and building
+
+## Project Structure
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
